@@ -1,1 +1,1 @@
-<img src="Fluxograma.drawio.svg" alt="Fluxograma simples de um pseudocódigo sobre descontos" width="300" height="300">
+<img src="Fluxograma.drawio.svg" alt="Fluxograma simples de um pseudocódigo sobre descontos" width="700" height="700">
