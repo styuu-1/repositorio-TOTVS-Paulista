@@ -1,0 +1,1 @@
+![Fluxograma](./fluxograma.drawio.svg)
