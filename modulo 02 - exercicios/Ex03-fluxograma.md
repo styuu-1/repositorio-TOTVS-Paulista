@@ -1,1 +1,1 @@
-![Fluxograma](./fluxograma.drawio.svg)
+<img src="Fluxograma.drawio.svg" alt="Fluxograma simples de um pseudocódigo sobre descontos" width="300" height="300">
